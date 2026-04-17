@@ -1,0 +1,23 @@
+StrokeAware - Brain Stroke Education Platform
+
+Overview:
+StrokeAware is a comprehensive, production-ready, Netflix-style education platform designed specifically to raise brain stroke awareness and educate medical students. It is beautifully designed with a modern purple and blue gradient theme that mimics a premium streaming platform experience, making learning engaging and interactive.
+
+Technology Stack:
+The platform is built using a modern frontend stack:
+- Framework: React 18
+- Language: TypeScript
+- Styling: Tailwind CSS v4
+- Build Tool: Vite
+- UI Ecosystem: Radix UI, Motion (Framer), Material UI, and Lucide React for icons.
+(Note: It also contains legacy support/files for a pure HTML/CSS/JS version without build tools.)
+
+Key Features:
+1. Netflix-Style Interface: Features a sleek purple/blue gradient theme with smooth animations, scroll effects, curved separators, and fully responsive design across all devices (mobile, tablet, desktop).
+2. Interactive Video Components: Includes a large featured hero video player with controls, and a horizontal scrolling "Trending Courses" carousel with animated hover video previews and numbered badges.
+3. Engaging Dashboards & Categories: Users can browse 6 distinct medical education categories with interactive image zoom and blur effects, and track their learning via a Progress Dashboard featuring animated shimmer effect bars.
+4. User Engagement Elements: Contains an auto-rotating student testimonial carousel with star ratings, a "Reasons to Learn" animated feature section, and an elegant backdrop-blurred Sign-In Modal.
+5. Production-Ready Structure: Offers 12 fully functional React components, complete routing, comprehensive documentation, and an error-free, ready-to-deploy setup.
+
+Getting Started:
+Ensure Node.js is installed. Navigate to the project directory, install dependencies with `npm install`, and start the development server with `npm run dev`. The site will be available on `http://localhost:5173`.
