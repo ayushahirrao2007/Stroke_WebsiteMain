@@ -1,2 +1,0 @@
-This website is abuot a project of Brain Stroke Awarness website so for this the stack we used is vite, vanilla CSS, react, node, etc.
-This will be the best 
