@@ -1,0 +1,152 @@
+@import './fonts.css';
+@import './tailwind.css';
+@import './theme.css';
+
+/* ── Mobile-first global resets ──────────────────────────────────────── */
+
+/*
+ * 1. Prevent any element from causing horizontal overflow / scroll.
+ * 2. Consistent box-sizing so padding never pushes elements wider than their container.
+ */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  /* Eliminate horizontal scrollbar on any viewport */
+  overflow-x: hidden;
+  /* Full-width anchor so nothing can push past 100vw */
+  width: 100%;
+  max-width: 100%;
+}
+
+/*
+ * Speed up tap response by removing the 300ms click delay on touch devices.
+ * Safe: does not disable zoom; only prevents double-tap-to-zoom delay on interactive elements.
+ */
+a,
+button,
+[role="button"],
+input,
+label,
+select,
+textarea {
+  touch-action: manipulation;
+}
+
+/*
+ * Minimum 44×44px touch targets for all interactive elements on mobile.
+ * Apply .min-touch to any small clickable item (icon-only buttons, links, etc.)
+ */
+.min-touch {
+  min-height: 44px;
+  min-width: 44px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* ── Reduced-motion accessibility ──────────────────────────────────────
+ * Respects users who have enabled "Reduce Motion" in their OS settings.
+ * Keeps layout shifts but skips purely cosmetic animations and transitions.
+ */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+
+  /* Specifically disable the heavier looping animations */
+  .animate-shimmer,
+  .animate-pulse-glow,
+  .animate-bounce-in,
+  .animate-fade-in {
+    animation: none !important;
+  }
+}
+
+/* ── Scrollbar utilities ─────────────────────────────────────────────── */
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* ── Shimmer animation (progress bars) ───────────────────────────────── */
+@keyframes shimmer {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+.animate-shimmer {
+  animation: shimmer 2s infinite;
+}
+
+/* ── Pulse glow animation ────────────────────────────────────────────── */
+@keyframes pulse-glow {
+  0%, 100% {
+    box-shadow: 0 0 20px rgba(147, 51, 234, 0.4);
+  }
+  50% {
+    box-shadow: 0 0 40px rgba(147, 51, 234, 0.8);
+  }
+}
+
+.animate-pulse-glow {
+  animation: pulse-glow 2s ease-in-out infinite;
+}
+
+/* ── Fade-in animation ───────────────────────────────────────────────── */
+@keyframes fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fade-in 0.6s ease-out forwards;
+}
+
+/* ── Bounce-in animation ─────────────────────────────────────────────── */
+@keyframes bounce-in {
+  0% {
+    transform: scale(0.3);
+    opacity: 0;
+  }
+  50% {
+    transform: scale(1.05);
+  }
+  70% {
+    transform: scale(0.9);
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.animate-bounce-in {
+  animation: bounce-in 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
