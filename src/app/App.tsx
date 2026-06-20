@@ -19,6 +19,7 @@ import { QuizPage } from '../pages/quiz/QuizPage';
 import BrainStrokePage from '../pages/BrainStrokePage';
 import AnatomyPage from '../pages/AnatomyPage';
 import CVSPage from '../pages/CVSPage';
+import TherapeuticsPage from '../pages/TherapeuticsPage';
 export default function App() {
 
   return (
@@ -47,7 +48,7 @@ export default function App() {
       {/* ── Coming Soon pages ─────────────────────────────────── */}
       <Route path="/anatomy" element={<AnatomyPage />} />
       <Route path="/cvs" element={<CVSPage />} />
-      <Route path="/therapeutics" element={<ComingSoon />} />
+      <Route path="/therapeutics" element={<TherapeuticsPage />} />
       <Route path="/modern-medicines" element={<ComingSoon />} />
       <Route path="/homeopathic-medicines" element={<ComingSoon />} />
       <Route path="/quiz" element={<QuizPage />} />
