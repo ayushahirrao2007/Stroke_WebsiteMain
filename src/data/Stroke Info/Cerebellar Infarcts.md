@@ -1,5 +1,7 @@
 # Cerebellar Infarcts
 
+![Cerebellar Infarcts Overview](/assets/images/Cerebellar%20Infarcts/cerebellar%201.png)
+
 ### Overview
 
 Cerebellar infarcts are a subtype of acute ischemic stroke resulting from occlusion of one of the three principal cerebellar arteries within the vertebrobasilar circulation: the superior cerebellar artery (SCA), anterior inferior cerebellar artery (AICA), or posterior inferior cerebellar artery (PICA). Although posterior circulation strokes account for approximately 20% of all ischemic strokes, cerebellar infarcts represent only about 3% of cases in the United States.
@@ -31,6 +33,9 @@ Typically, occlusion of one of the major cerebellar arteries results in large, s
 Cerebellar infarcts require special clinical attention due to their unique diagnostic complexities and management challenges, emphasizing the importance of early recognition and appropriate intervention.
 
 # Etiology of Cerebellar Infarcts
+
+![Cerebellar Infarcts Etiology, Risk Factors and Pathophysiology](/assets/images/Cerebellar%20Infarcts/cerebellar%20etiology%20img%202.png)
+
 Cerebellar infarcts result from obstruction of one of the three principal cerebellar arteries: the posterior inferior cerebellar artery (PICA), anterior inferior cerebellar artery (AICA), or superior cerebellar artery (SCA). Similar to other ischemic strokes, multiple vascular mechanisms can contribute to the development of cerebellar infarction.
 
 The major underlying etiologies include:
@@ -49,6 +54,9 @@ Cardioembolic events typically arise from impaired cardiac function or abnormal 
 Smaller cerebellar infarcts (less than 2 cm in size), which are often asymptomatic, were historically considered border-zone (watershed) infarcts occurring between major cerebellar arterial territories. However, current evidence also supports small vessel disease as a significant cause of these lesions. With the increasing use of magnetic resonance imaging (MRI), such infarcts are frequently detected incidentally as ischemic cortical cavities, even in individuals without overt neurological symptoms.
 
 # Epidemiology of Cerebellar Infarcts
+
+![Cerebellar Infarcts Epidemiology, Mortality and Clinical Significance](/assets/images/Cerebellar%20Infarcts/epidemiology%20img%203.png)
+
 Cerebellar infarcts account for approximately 2%–3% of all strokes, making them a relatively uncommon subtype of ischemic stroke. Despite their low incidence, they are associated with disproportionately high morbidity and mortality compared to other stroke types.
 
 Evidence from a large study involving nearly 2,000 consecutive stroke patients demonstrated that cerebellar strokes carry a mortality rate of approximately 23%, which is significantly higher than that observed in more common cerebral (supratentorial) strokes, reported at 12.5%. Brainstem strokes exhibit an intermediate mortality rate of around 17%.
@@ -60,6 +68,9 @@ The increased mortality associated with cerebellar infarcts is primarily attribu
 These findings highlight the importance of early recognition, close monitoring, and timely intervention in patients with suspected cerebellar infarction.
 
 # Pathophysiology of Cerebellar Infarcts
+
+![Cerebellar Infarcts Neurological Deficits and Complications](/assets/images/Cerebellar%20Infarcts/cerebellar%20img%204%20deficits%20and%20complications.png)
+
 The neurological deficits observed in cerebellar infarcts are primarily determined by the specific vascular territory involved, as each cerebellar artery supplies distinct 
 anatomical and functional regions.
 
@@ -109,6 +120,8 @@ As swelling progresses, it can lead to life-threatening complications:
 These pathophysiological mechanisms highlight why cerebellar infarcts, although relatively rare, require urgent recognition, close monitoring, and timely intervention to prevent catastrophic outcomes.
 
 # History and Physical Examination in Cerebellar Infarcts
+
+![Clinical Presentation of Acute Cerebellar Infarct](/assets/images/Cerebellar%20Infarcts/cerebellar%20img%205.png)
 
 The most characteristic presentation of an acute cerebellar infarct includes the sudden onset of vertigo, nausea, vomiting, and gait ataxia. In elderly patients, acute vertigo accompanied by inability to walk should raise strong suspicion for a cerebellar infarct until proven otherwise. Similarly, when vertigo is associated with headache and inability to walk, a cerebellar hemorrhage must be ruled out. A high index of clinical suspicion is essential for early diagnosis and prevention of complications.
 
@@ -163,6 +176,8 @@ A comprehensive systemic evaluation is critical to avoid missing other life-thre
 
 ### Evaluation of Cerebellar Infarcts
 
+![Cerebellar Infarct Differential Considerations and Evaluation](/assets/images/Cerebellar%20Infarcts/cerebellar%20differential%20consideration.png)
+
 Accurate and timely diagnosis of cerebellar infarction relies on a combination of neuroimaging, clinical examination, and supportive investigations.
 
 Magnetic resonance imaging (MRI) with diffusion-weighted imaging (DWI) is the gold standard for diagnosing cerebellar infarction. It is highly sensitive in detecting early ischemic changes, including areas of restricted diffusion and poor perfusion, allowing for precise localization of infarcted tissue.
@@ -195,6 +210,8 @@ In addition to imaging, careful bedside assessment is crucial. The HINTS examina
 —can help differentiate central causes of vertigo (such as cerebellar infarction) from peripheral causes. The presence of skew deviation strongly suggests a central pathology.
 
 # Treatment and Management of Cerebellar Infarcts
+
+![Management of Acute Cerebellar Infarction](/assets/images/Cerebellar%20Infarcts/cerebellar%20img%207.png)
 
 Management of cerebellar infarcts follows general principles of acute ischemic stroke care, with additional emphasis on early detection of complications, particularly cerebral edema and brainstem compression.
 
@@ -310,6 +327,8 @@ During hospitalization, efforts should be made to identify and treat the underly
 
 # Differential Diagnosis of Cerebellar Infarcts
 
+![Differential Diagnosis of Cerebellar Infarction](/assets/images/Cerebellar%20Infarcts/cerebellar%208.png)
+
 Cerebellar infarctions are frequently misdiagnosed due to their nonspecific and overlapping clinical presentation. Common conditions that may mimic cerebellar stroke include:
 
 - **Vestibular disorders** such as vestibular neuronitis
@@ -364,6 +383,8 @@ Early and accurate differentiation is crucial, as delayed diagnosis can lead to 
 
 # Prognosis of Cerebellar Infarcts
 
+![Prognosis and Complications of Cerebellar Infarction](/assets/images/Cerebellar%20Infarcts/cerebellar%209.png)
+
 The prognosis of cerebellar infarction is generally comparable to that of other types of stroke, with outcomes largely dependent on the size and location of the infarct. Larger infarctions involving extensive cerebellar territory are associated with higher morbidity and mortality, primarily due to complications such as brainstem compression, obstructive hydrocephalus, and increased intracranial pressure.
 
 Advancements in early recognition, neuroimaging, and timely intervention have contributed to a gradual reduction in overall morbidity and improved survival rates in recent years.
@@ -388,6 +409,8 @@ Patients with cerebellar infarction are also at risk of complications commonly s
 These complications are associated with prolonged hospitalization and increased morbidity.
 
 # Postoperative and Rehabilitation Care
+
+![Rehabilitation and Consultations in Cerebellar Infarction](/assets/images/Cerebellar%20Infarcts/cerebellar%2010.png)
 
 Rehabilitation following cerebellar infarction is a comprehensive, multidisciplinary, and individualized process aimed at restoring functional independence and improving quality of life. Patients who undergo surgical interventions, such as decompressive suboccipital craniectomy, require intensive monitoring in an acute care setting during the immediate postoperative period.
 
@@ -481,6 +504,8 @@ Effective coordination among healthcare professionals ensures:
 
 # Deterrence and Patient Education
 
+![Patient Education for Secondary Prevention of Cerebellar Infarction](/assets/images/Cerebellar%20Infarcts/cerebellar%2011.png)
+
 Patient education is a crucial component in the secondary prevention of cerebellar infarction. Educating patients about modifiable risk factors and preventive strategies significantly reduces the risk of recurrent strokes and improves long-term outcomes.
 
 ### Key Components of Patient Education
@@ -524,6 +549,8 @@ Healthcare professionals play a vital role in:
 
 # Enhancing Healthcare Team Outcomes
 
+![Interprofessional Approach in Cerebellar Infarction](/assets/images/Cerebellar%20Infarcts/cerebellar%2012.png)
+
 Patients with cerebellar infarction often present with nonspecific or atypical symptoms, and clinical features may overlap with other neurological and systemic conditions, particularly in cases of hemorrhagic transformation. Due to this variability, a high index of clinical suspicion and strong diagnostic expertise are essential for timely recognition and management.
 
 ### Importance of an Interprofessional Team
@@ -555,4 +582,3 @@ The interprofessional model significantly enhances patient care by ensuring:
 - Reduction in complications and mortality
 - Improved functional recovery
 - Better coordination of acute and long-term care
-
