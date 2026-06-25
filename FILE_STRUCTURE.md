@@ -3,7 +3,7 @@
 Visual representation of all files in the StrokeAware project.
 
 ```
-strokeaware-education-platform/
+StrokeAware-education-platform/
 │
 ├── 📄 index.html                    # HTML entry point
 ├── 📄 package.json                  # Dependencies & scripts

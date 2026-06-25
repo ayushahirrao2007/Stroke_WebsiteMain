@@ -39,12 +39,12 @@ If you have a ZIP file:
 
 **Windows:**
 ```cmd
-cd C:\path\to\strokeaware-education-platform
+cd C:\path\to\StrokeAware-education-platform
 ```
 
 **Mac/Linux:**
 ```bash
-cd /path/to/strokeaware-education-platform
+cd /path/to/StrokeAware-education-platform
 ```
 
 ### Step 2: Install Dependencies
@@ -148,7 +148,7 @@ pnpm preview
 
 2. **Navigate to project folder:**
    ```cmd
-   cd C:\Users\YourName\Downloads\strokeaware-education-platform
+   cd C:\Users\YourName\Downloads\StrokeAware-education-platform
    ```
 
 3. **Run installation:**
@@ -166,7 +166,7 @@ pnpm preview
 
 2. **Navigate to project folder:**
    ```bash
-   cd ~/Downloads/strokeaware-education-platform
+   cd ~/Downloads/StrokeAware-education-platform
    ```
 
 3. **Run installation:**
@@ -182,7 +182,7 @@ pnpm preview
 
 2. **Navigate to project folder:**
    ```bash
-   cd ~/Downloads/strokeaware-education-platform
+   cd ~/Downloads/StrokeAware-education-platform
    ```
 
 3. **Run installation:**
@@ -316,7 +316,7 @@ Edit `/src/styles/theme.css`:
 ## 📦 Project Structure
 
 ```
-strokeaware-education-platform/
+StrokeAware-education-platform/
 │
 ├── src/
 │   ├── app/

@@ -28,7 +28,7 @@ Copy and paste these commands one by one:
 
 ```bash
 # Navigate to the project folder (change the path to where you extracted the files)
-cd path/to/strokeaware-education-platform
+cd path/to/StrokeAware-education-platform
 
 # Install dependencies (this takes 2-5 minutes)
 npm install

@@ -43,7 +43,7 @@ This is a **fully functional, production-ready** Netflix-style education platfor
 ### Step 2: Navigate to Project Folder
 
 ```bash
-cd path/to/strokeaware-education-platform
+cd path/to/StrokeAware-education-platform
 ```
 
 ### Step 3: Run These Commands

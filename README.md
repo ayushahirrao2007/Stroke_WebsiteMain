@@ -70,7 +70,7 @@ Then open: `http://localhost:8000`
 ## 📁 Project Structure
 
 ```
-strokeaware-education-platform/
+StrokeAware-education-platform/
 │
 ├── index.html              # Main HTML file
 │

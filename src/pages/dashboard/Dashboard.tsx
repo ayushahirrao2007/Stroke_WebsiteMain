@@ -63,7 +63,7 @@ export function Dashboard() {
                         <Brain className="text-white" size={22} />
                     </div>
                     <span className="text-xl font-extrabold bg-gradient-to-r from-purple-300 to-blue-300 bg-clip-text text-transparent">
-                        StrokeAware
+                        NeuroNexus
                     </span>
                 </div>
                 <button
@@ -122,7 +122,7 @@ export function Dashboard() {
                             } else if (course.lessons) {
                                 totalLessons = course.lessons.length;
                             }
-                            
+
                             const courseCompletedCount = completedLessons.filter(key => key.startsWith(`${course.id}_`)).length;
                             const progressPercent = totalLessons > 0 ? Math.round((courseCompletedCount / totalLessons) * 100) : 0;
 
@@ -142,9 +142,9 @@ export function Dashboard() {
                                                 <span className="text-white">{progressPercent}%</span>
                                             </div>
                                             <div className="h-2 w-full bg-white/10 rounded-full overflow-hidden">
-                                                <div 
-                                                    className="h-full bg-gradient-to-r from-purple-400 to-blue-400 rounded-full transition-all duration-500" 
-                                                    style={{ width: `${progressPercent}%` }} 
+                                                <div
+                                                    className="h-full bg-gradient-to-r from-purple-400 to-blue-400 rounded-full transition-all duration-500"
+                                                    style={{ width: `${progressPercent}%` }}
                                                 />
                                             </div>
                                         </div>

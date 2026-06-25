@@ -1,6 +1,6 @@
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                                                                      ║
-║        🧠 STROKEAWARE - COMPLETE SUMMARY                            ║
+║        🧠 StrokeAware - COMPLETE SUMMARY                            ║
 ║        Pure HTML, CSS, JavaScript - No Frameworks!                  ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
@@ -26,7 +26,7 @@
 
 📁 FILE STRUCTURE:
 
-strokeaware-education-platform/
+StrokeAware-education-platform/
 │
 ├── index.html                  ← Main HTML (open this to run!)
 │

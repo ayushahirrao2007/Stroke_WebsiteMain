@@ -2,6 +2,8 @@
 
 ## Introduction
 
+![TIA Introduction](/assets/images/TIA/TIA%20introduction%201.png)
+
 A **transient ischemic attack (TIA)** is a medical emergency characterized by a short-lived episode of neurological dysfunction caused by temporary disruption of blood flow to the brain, spinal cord, or retina, without resulting in permanent tissue damage. Modern definitions focus on the absence of tissue injury rather than the duration of symptoms. Most TIAs last only a few minutes and typically resolve within an hour.
 
 A TIA serves as a critical warning sign for a possible future ischemic stroke, with the greatest risk occurring within the first 48 hours after the event. Accurate diagnosis is essential, as TIAs must be distinguished from other conditions that can mimic similar symptoms. They usually present with sudden-onset, focal neurological deficits such as weakness, numbness, or speech disturbances corresponding to a specific vascular region.
@@ -9,6 +11,8 @@ A TIA serves as a critical warning sign for a possible future ischemic stroke, w
 Prompt evaluation, including imaging and laboratory tests, is necessary to reduce the likelihood of subsequent strokes. Risk can be assessed using simple clinical scoring systems. Immediate treatment should involve a combination of approaches such as strict blood pressure control, high-intensity statin therapy, antiplatelet medications, blood glucose management, and lifestyle modifications including diet and exercise. Addressing the underlying cause is also crucial. With early and comprehensive management, the risk of future strokes or recurrent TIAs can be reduced significantly—by up to 80%.
 
 # Etiology
+
+![TIA Etiology](/assets/images/TIA/TIA%20Etiology%202.png)
 
 Transient ischemic attacks (TIAs) can be categorized based on their underlying mechanisms, similar to the classification used for ischemic strokes. These subtypes include large artery atherosclerosis (atherothrombosis), cardioembolic events, small vessel (lacunar) disease, cryptogenic (unknown cause), and less common causes such as arterial dissection or inflammatory vascular disorders.
 
@@ -18,11 +22,15 @@ Among all these factors, hypertension remains the most critical risk factor, bot
 
 # Epidemiology
 
+![TIA Epidemiology](/assets/images/TIA/TIA%20Epidemiology%203.png)
+
 Estimating the true incidence of transient ischemic attacks (TIAs) is challenging because their symptoms often resemble other neurological conditions. However, in the United States, it is estimated that roughly 500,000 TIAs occur each year, with an incidence of about 1.1 cases per 1,000 people annually. The overall prevalence among adults is around 2%.
 
 Research indicates that individuals with a prior history of stroke are more likely to experience a TIA. In addition, several studies suggest that many patients who eventually suffer a stroke report having had TIA-like symptoms beforehand, highlighting its role as an important early warning sign.
 
 # Pathophysiology
+
+![TIA Pathophysiology](/assets/images/TIA/tia%20img%204%20pathophysio.png)
 
 The pathophysiology of TIA depends on the subtype as follows. The common issue is the transient interruption of arterial blood flow to an area of the brain supplied by that particular artery.
 Large artery atherothrombosis. This may be intracranial or extracranial atherothrombosis. The mechanism may be a lack of blood flow distal to the site of arterial stenosis or an artery-to-artery embolism, the more common mechanism.
@@ -37,6 +45,8 @@ Other uncommon causes such as arterial dissection or hypercoagulable states.
 
 # History and Physical
 
+![TIA History and Physical](/assets/images/TIA/tia%20img%205%20history%20and%20physical.png)
+
 Symptoms of a transient ischemic attack (TIA) often resolve before the patient reaches a doctor or emergency department, making a detailed clinical history essential. Important aspects include the time of onset, duration, progression, and full description of neurological symptoms, along with any associated features and factors that worsen or relieve them. Clinicians should also assess risk factors such as coronary artery disease, smoking, substance use, obesity, diabetes, abnormal lipid levels, and high blood pressure. A personal or family history of clotting disorders, stroke, or TIA is also relevant.
 
 Certain historical clues can help identify the cause. For example, a history of atrial fibrillation or a recent heart attack may suggest a cardioembolic origin. Brief episodes of vision loss described as a “curtain” moving across the eye often point toward internal carotid artery disease. The presence of cortical symptoms—such as speech difficulties or visual field loss—suggests involvement of the brain cortex rather than a small (lacunar) vessel.
@@ -46,6 +56,8 @@ On physical examination, the focus is on detecting focal neurological deficits a
 A cardiovascular examination is also important, including listening for abnormal heart rhythms and checking for carotid bruits, which may indicate arterial narrowing. Examination of the eye (fundoscopy) can reveal signs of long-standing hypertension or diabetes, and may also detect cholesterol emboli (Hollenhorst plaques), suggesting underlying carotid artery disease
 
 # Evaluation
+
+![TIA Evaluation](/assets/images/TIA/tia%20img%206.png)
 
 ## Evaluation of Transient Ischemic Attack (TIA)
 
@@ -125,6 +137,8 @@ Patients with scores of 4 or higher are often admitted for urgent evaluation and
 
 # Treatment / Management
 
+![TIA Treatment and Management](/assets/images/TIA/tia%20img%207.png)
+
 ## Management of Transient Ischemic Attack (TIA)
 
 The primary goal of treating a transient ischemic attack (TIA) is to reduce the risk of future strokes or recurrent TIAs. Early intervention is critical, as the risk of stroke can be as high as 20% within the first three months, with nearly half of these events occurring within the first 48 hours after the initial episode.
@@ -168,6 +182,8 @@ Aggressive management of modifiable risk factors is essential:
 
 # Differential Diagnosis
 
+![TIA Differential Diagnosis](/assets/images/TIA/TIA%208.png)
+
 **Differential Diagnoses of Transient Ischemic Attack (TIA)**
 
 Several medical conditions can present with symptoms similar to a transient ischemic attack and should be carefully considered during evaluation:
@@ -182,6 +198,8 @@ Several medical conditions can present with symptoms similar to a transient isch
 - **Syncope** – A temporary loss of consciousness due to reduced blood flow to the brain, sometimes confused with transient neurological events. 
 
 # Staging and Risk Stratification in TIA
+
+![TIA Staging and Risk Stratification](/assets/images/TIA/TIA%209.png)
 
 Risk assessment is a key part of managing transient ischemic attack (TIA), as it helps identify patients at high risk of developing a stroke and guides urgent treatment decisions.
 
@@ -213,6 +231,9 @@ Patients with higher scores require urgent evaluation, close monitoring, and oft
 Although the ABCD2 score is a valuable tool, it should not be used in isolation. Some patients—especially those with significant carotid artery narrowing (stenosis)—may still have a high stroke risk despite a low score. Therefore, clinical judgment and imaging findings are essential for accurate decision-making.
 
 # Clinical Pearls and Other Considerations
+
+![TIA Clinical Pearls and Other Considerations](/assets/images/TIA/TIA%2010.png)
+
 Accurate identification of a transient ischemic attack (TIA) is essential, as early diagnosis and treatment can significantly reduce the risk of a future stroke. However, many conditions can produce symptoms similar to TIA, making careful evaluation crucial.
 
 ## Common Conditions That Can Mimic TIA
@@ -230,6 +251,8 @@ Accurate identification of a transient ischemic attack (TIA) is essential, as ea
 - Alcohol intoxication or withdrawal 
 
 # Enhancing Healthcare Team Outcomes
+
+![TIA Enhancing Healthcare Team Outcomes](/assets/images/TIA/TIA%2011.png)
 
 Patients with a transient ischemic attack (TIA) commonly present to the emergency department or primary care settings. Given the significant risk of progression to a major stroke, prompt and coordinated care by an interprofessional healthcare team is essential.
 
