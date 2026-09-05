@@ -1,0 +1,27 @@
+[
+  {
+    "filename": "MIASM.docx",
+    "status": "PASS",
+    "source_paragraph_count": 77,
+    "source_table_count": 0,
+    "source_body_element_count": 78,
+    "markdown_block_count": 73,
+    "source_text_char_count": 2774,
+    "markdown_source_text_char_count": 2803,
+    "source_word_count": 320,
+    "markdown_word_count": 320,
+    "word_difference": 0,
+    "preservation_ratio_percent": 100.0,
+    "classification": "Exact content preservation (100% word-for-word match)",
+    "missing_words": [],
+    "extra_words": [],
+    "detected_unicode_special_chars": {
+      "arrows": [
+        "→"
+      ]
+    },
+    "diff_details": [],
+    "warnings": [],
+    "errors": []
+  }
+]
